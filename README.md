@@ -3,9 +3,9 @@
 [![Chase's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daelso&show_icons=true&theme=dracula)](https://github.com/Daelso/github-readme-stats)
 
 <a href="https://github.com/Daelso/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daelso&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daelso&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/Daelso/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Daelso&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daelso&show_icons=true&theme=dracula" />
 </a>
 
