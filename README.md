@@ -2,7 +2,7 @@
 <img src="https://camo.githubusercontent.com/57446bc53db86a26240752d5bcd247f3f1b18947fecd9e280b9d1936e821478e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667" width="100" height="100"><img src="https://avatars.githubusercontent.com/u/4378955?s=280&v=4" width="100" height="100"><img src="https://camo.githubusercontent.com/8868329fd77432f9aa0bb3bdc7bcd3320f41a354dbcc3f4add7c50303eea9bb3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" width="100" height="100">
 
 
-<a href="https://github.com/Daelso/github-readme-stats">
+<a href="https://github.com/Daelso">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daelso&show_icons=true&theme=dracula" />
 </a>
 
